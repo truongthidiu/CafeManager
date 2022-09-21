@@ -1,1 +1,1 @@
-# CafeManager
+# Cafe Manager app
